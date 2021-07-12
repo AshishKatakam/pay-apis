@@ -1,0 +1,22 @@
+{
+  "name": "payapp",
+  "version": "1.0.0",
+  "description": "a simple payment app bdackend\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cackend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "Ashish Katakam",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.9",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "twilio": "^3.65.0"
+  }
+}
